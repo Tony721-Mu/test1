@@ -1,0 +1,29 @@
+.shadow {
+    text-shadow: 1px 1px 1px rgb(244, 67, 54, 10), 2px 2px 1px rgb(46, 145, 232, 10), 3px 3px 1px rgb(156, 39, 176, 10000);
+
+
+
+}
+
+
+
+.one {
+    text-transform: uppercase;
+}
+
+.two {
+    text-transform: capitalize;
+}
+
+.three {
+    text-transform: lowercase;
+}
+
+div {
+    background-color: #eee;
+    width: 400px;
+    word-break: break-word;
+    padding: 10px;
+    white-space: nowrap;
+    
+}
